@@ -1,6 +1,7 @@
 # 👋👋👋 Hi, I'm Echo!  
 
 🏛️ Master’s student at the University of Pennsylvania\
+🐦 Want to be a software engineer
 🤔 Seeking for a summer intership in 2025\
 👩🏻‍💻 2 years of development experience in Java, Python, MySQL, Spring Boot, React...\
 📫 [Linkedin](http://linkedin.com/in/chenyuecho) here, [Email](dangeboe@gmail.com) here!\
